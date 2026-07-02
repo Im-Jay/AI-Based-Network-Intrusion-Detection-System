@@ -164,16 +164,10 @@ Go to the project folder.
 cd AI-Based-Network-Intrusion-Detection-System
 ```
 
-Install dependencies.
-
-```bash
-pip install -r requirements.txt
-```
-
 Run the project.
 
 ```bash
-python app.py
+python script.py
 ```
 
 (Change this command if your main file has a different name.)
@@ -251,3 +245,15 @@ My contributions included:
 
 ---
 
+The datasets are not included because they exceed GitHub's file size limits.
+
+Download them from:
+
+- UNSW-NB15: https://research.unsw.edu.au/projects/unsw-nb15-dataset
+- NSL-KDD: https://www.unb.ca/cic/datasets/nsl.html
+
+After downloading:
+
+datasets/
+├── UNSW_NB15_IDS/
+└── nsl-kdd/

@@ -183,14 +183,14 @@ python app.py
 # Screenshots
 
 ## System Architecture
-<img width="1536" height="940" alt="ChatGPT Image Jun 28, 2026, 08_4asd4_44 PM" src="https://github.com/user-attachments/assets/bdc44160-5c59-43ad-b8ca-f7a5380e0fe1" />
+<img width="1536" height="940" alt="ChatGPT Image Jun 28, 2026, 08_4asd4_44 PM" src="https://github.com/user-attachments/assets/d4c02d72-357f-4ce2-bacf-4136f9d9b20c" />
 
 
 ---
 
 ## Output
+<img width="596" height="418" alt="image" src="https://github.com/user-attachments/assets/c4e5a126-4663-4bfa-936e-9e5f322a357f" />
 
-<img width="932" height="654" alt="image" src="https://github.com/user-attachments/assets/0fa6c958-9ffb-43a8-a26c-dc6dfd59c864" />
 
 ---
 
